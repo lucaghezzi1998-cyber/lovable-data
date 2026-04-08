@@ -1,6 +1,6 @@
-us_r = 1.35
-canada_r = 1.8
-eu_r = 0.03
-japan_r = 0.5
+us_r = 4.1
+canada_r = 3.6
+eu_r = 2.5
+japan_r = 1.8
 australia_r = 3.5
 uk_r = 3
