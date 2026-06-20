@@ -1,9 +1,4 @@
 Forecast date;Nowcast (current quarter)
-02-dic-22;
-09-dic-22;
-16-dic-22;
-23-dic-22;
-30-dic-22;
 06-gen-23;1,57
 13-gen-23;1,64
 20-gen-23;0,79
@@ -181,4 +176,7 @@ Forecast date;Nowcast (current quarter)
 08-mag-26;2,59
 15-mag-26;2,61
 22-mag-26;2,61
-28-mag-26;2,5
+29-mag-26;2,5
+05-giu-26;2,67
+12-giu-26;2,7
+19-giu-26;2,68
